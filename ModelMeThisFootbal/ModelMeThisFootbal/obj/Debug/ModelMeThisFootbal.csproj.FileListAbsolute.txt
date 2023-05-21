@@ -1,0 +1,8 @@
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\bin\Debug\ModelMeThisFootbal.exe.config
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\bin\Debug\ModelMeThisFootbal.exe
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\bin\Debug\ModelMeThisFootbal.pdb
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\obj\Debug\ModelMeThisFootbal.csproj.AssemblyReference.cache
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\obj\Debug\ModelMeThisFootbal.csproj.SuggestedBindingRedirects.cache
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\obj\Debug\ModelMeThisFootbal.csproj.CoreCompileInputs.cache
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\obj\Debug\ModelMeThisFootbal.exe
+C:\Users\izidog\source\repos\ModelMeThisFootbal\ModelMeThisFootbal\obj\Debug\ModelMeThisFootbal.pdb
